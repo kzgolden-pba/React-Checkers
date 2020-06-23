@@ -1,0 +1,14 @@
+.square {
+    width: 50px;
+    height: 50px;
+    border: solid 1px;
+    float: left;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+.square-black {
+    background-color: black;
+}
+.square-white {
+    background-color: LightGray;
+}
